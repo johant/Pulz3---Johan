@@ -1,0 +1,961 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"I",
+				"italic"
+			],
+			[
+				"FO",
+				"font-style"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"co",
+				"contenido"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"vi",
+				"visited  (pseudo-class)"
+			],
+			[
+				"nom",
+				"nombres"
+			],
+			[
+				"a",
+				"antecedentes"
+			],
+			[
+				"ev",
+				"evoluciones"
+			],
+			[
+				"mo",
+				"motivoConsulta"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"ses",
+				"session_destroy  (function)"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"v",
+				"vcal  (variable)"
+			],
+			[
+				"str",
+				"strtotime"
+			],
+			[
+				"do",
+				"documento"
+			],
+			[
+				"cal",
+				"calEvent"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"es",
+				"ezSQL_mysql  (class)"
+			],
+			[
+				"ce",
+				"celular"
+			],
+			[
+				"get",
+				"getNroDocumento  (function)"
+			],
+			[
+				"fecha",
+				"FechaInicioFormula"
+			],
+			[
+				"h",
+				"historia"
+			],
+			[
+				"hist",
+				"HistoriaClinica"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"pu",
+				"puta"
+			],
+			[
+				"setN",
+				"setNroDocumento"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"MYSQL_A",
+				"MYSQLI_ASSOC  (constant)"
+			],
+			[
+				"b",
+				"buscarPaciente"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"strip",
+				"stripslashes  (function)"
+			],
+			[
+				"htm",
+				"htmlentities"
+			],
+			[
+				"fe",
+				"fecha2"
+			],
+			[
+				"no",
+				"nombrePrepagada"
+			],
+			[
+				"tel",
+				"telefonoResponsable"
+			],
+			[
+				"tipo",
+				"tipoAfiliacion"
+			],
+			[
+				"tele",
+				"telefonoOficina"
+			],
+			[
+				"nomb",
+				"nombrePaciente"
+			],
+			[
+				"cel",
+				"celularResponsable"
+			],
+			[
+				"telef",
+				"telefonoOficina"
+			],
+			[
+				"cli",
+				"Click"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ser",
+				"searchform"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"car",
+				"cargaGradoEscolar"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Esta",
+				"estadoCivil"
+			],
+			[
+				"n",
+				"nombreCombo"
+			],
+			[
+				"ms",
+				"msg"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"mysqli_nu",
+				"mysqli_num_rows  (function)"
+			],
+			[
+				"set",
+				"setSql  (function)"
+			],
+			[
+				"mysqli_",
+				"mysqli_query  (function)"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"c",
+				"conn"
+			],
+			[
+				"setu",
+				"setCodUsuario"
+			],
+			[
+				"mysa",
+				"mysqli  (class)"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"u",
+				"Usuario  (class)"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"cod",
+				"codUsuario"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"pr",
+				"primeraAnimacion"
+			],
+			[
+				"webkit-tr",
+				"webkit-transform"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"efe",
+				"efecto"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"pe",
+				"pestanas"
+			],
+			[
+				"dia",
+				"dialogo"
+			],
+			[
+				"ca",
+				"calendario"
+			],
+			[
+				"sol",
+				"solid"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"g",
+				"grande"
+			],
+			[
+				"so",
+				"soltar"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cl",
+				"click  (function)"
+			],
+			[
+				"l",
+				"link  (pseudo-class)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"US",
+				"userName"
+			],
+			[
+				"us",
+				"userName"
+			],
+			[
+				"SES",
+				"session_start"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"POS",
+				"post"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"margin-",
+				"margin-left:   (property)"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"wir",
+				"width:   (property)"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"magin-",
+				"margin-left"
+			],
+			[
+				"webkit-bo",
+				"-webkit-box-sizing:   (property)"
+			],
+			[
+				"fi",
+				"figure  (element)"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"hea",
+				"header  (element)"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"f",
+				"fs	font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 272.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Mejorandola/index.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Mejorandola/estilos.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/index.html",
+		"/Users/jtorroledo/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/images/searchBox.png",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Mejorandola/normalize.css",
+		"/Users/jtorroledo/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jtorroledo/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/js/funciones.js",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/Funciones/pacientes.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/Funciones/retornaDocumentos.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/prueba.html",
+		"/Users/jtorroledo/Node/Prueba/hola.js",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/Datos/Pacientes.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/Funciones/js/funciones.js",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/style.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Fenix/libs/ez_sql_mysqli.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Salud/Login.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Medicos/Clases/mySql.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Medicos/libs/ez_sql_core.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Medicos/libs/ez_sql_mysql.php",
+		"/Users/jtorroledo/Downloads/layout(1).tpl",
+		"/Users/jtorroledo/Downloads/AdminOrdersController.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Salud/css/login.css",
+		"/Users/jtorroledo/Downloads/jquery-validation-1.11.1/README.md",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/beta.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Reportes/PDF_ConsultaMedica.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Reportes/PDF_FormulaMedica.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/busquedaFormula.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/events.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/agendamientoCitas.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/ingresarConsulta.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/IngresarFormula.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/mpdf/mpdf.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/pacientes.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/adicionarCita.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/calendario.js",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/paciente.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/mySql.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/agendar.Class.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/ResultadoBusquedas/resultadoCitas.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/ResultadoBusquedas/resultadoHistoria.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/ResultadoBusquedas/resultadoFormula.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/historiaClinica.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/css/style.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/formula.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/historia.Class.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/formula.Class.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/busquedaCitas.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/busquedaHistoria.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/gradoParentesco.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/css/login.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/login.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/recordatorioCitas.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/logout.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/css/calendario.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/usuario.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/css/smoothness/jquery-ui-1.8rc3.custom.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/eps.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/libs/ez_sql_mysql.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/tipoDocumentos.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/recordatorio.Class.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/gradoEscolar.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/estadoCivil.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/default.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/caro.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/agendarCita.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/libs/class.phpmailer.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/libs/class.smtp.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/css/zebra_pagination.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/buscar.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/js/calendario.js",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/ResultadoBusquedas/resultadosFormula_beta.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/libs/Zebra_Pagination.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/ResultadoBusquedas/resultadosFormula.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/css/redmond/jquery-ui-1.10.2.custom.min.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/css/redmond/jquery-ui.css",
+		"/Users/jtorroledo/Downloads/Plugins/zebra_pagination.2.1/public/css/zebra_pagination.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/resultadosFormula.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/PDF_FormulaMedica.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/funciones/cargarBusquedaFormula.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/funciones/beta.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/alfa.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/consulta.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/test.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/clinica.sublime-project",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/formula.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Login.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/auto.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/funciones/buscarPaciente.php",
+		"/Users/jtorroledo/Downloads/jquery-ui-1.10.2.custom/css/ui-lightness/jquery-ui-1.10.2.custom.min.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/funciones",
+		"/Users/jtorroledo/Downloads/ajax-loader.gif",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/ss.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/cPersona.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Resources/css/ss.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/tipoDocumento",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/Clases/gradioEscolar.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/validaUsuario.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/webClinica/clinica.sublime-workspace",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/index.html",
+		"/Users/jtorroledo/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/canvas.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/eventos.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/Texto.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/indexCss.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/interacciones.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/Resources/js/codigo.js",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/Conectar.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/Resources/js/jquery-1.9.1.min.js",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/Funciones.php",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/Index3.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/Sicologia/prueba.php",
+		"/Users/jtorroledo/Documents/Curso HTML5/Blog/css\\style.css",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/PruebaCss/index.html",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/PruebaCss/style.css",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/$_POST/Login.php",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/Alpha/beta.html",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/Alpha/paciente.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/$_POST/Index.php",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/Alpha/css/style.css",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/Alpha/paciente.php",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/Alpha/css/lib/normalize.css",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/Beta/Beta.sublime-project",
+		"/Users/jtorroledo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jtorroledo/Documents/Curso Web/TAREAS/Unidas/images.jpg",
+		"/Users/jtorroledo/Documents/Curso HTML5/Index.html",
+		"/Users/jtorroledo/Dropbox/Web/htdocs/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5em",
+			"move",
+			"input",
+			"query",
+			"tipoDocumento",
+			"estados",
+			"user",
+			"public",
+			"dinvaders",
+			"televisa.c",
+			"televisa",
+			"`ps",
+			"--",
+			"`ps",
+			"`ps_",
+			"Ediciones",
+			"ps_product",
+			"coolvillage",
+			"frmPaciente",
+			"'');",
+			"mode",
+			"edit",
+			"estadoCivil",
+			"usuario",
+			"Usuario",
+			"usuario",
+			"Usuario",
+			"usuario",
+			"recordatorio",
+			"(\"'.$",
+			"  ",
+			"Escolar",
+			"Sicologia.",
+			"//",
+			"send(",
+			"’",
+			"“",
+			"”",
+			"calEvent.start",
+			"//$('#",
+			"formula",
+			");\n",
+			"fecha",
+			"busqueda",
+			".busqueda",
+			"'];",
+			"']",
+			"row['",
+			"row[",
+			"events",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"pais",
+			"<br/>",
+			"receta",
+			"setmensaje",
+			"css",
+			"titulo",
+			"pagina",
+			"Pagina",
+			"pagina",
+			"celular",
+			"echo",
+			"while",
+			"resultPass",
+			"   \n",
+			"hoal",
+			"historia",
+			"motivoConsulta",
+			"MotivoConsulta",
+			"motivoConsulta",
+			"MotivoConsulta",
+			"Historia",
+			"horaInicial",
+			"HoraInicial",
+			"horaInicial",
+			"HoraInicial",
+			"horaInicial",
+			"motivoConsulta",
+			"searchform",
+			"paciente1",
+			"acompanante",
+			"Acompanante",
+			"acompanante",
+			"Acompanante",
+			"acompanante",
+			"planyTratamiento",
+			"PlanyTratamiento",
+			"planyTratamiento",
+			"examenMental",
+			"ExamenMental",
+			"examenMental",
+			"ExamenMental",
+			"examenMental",
+			"ExamenMental",
+			"examenMental",
+			"ExamenMental",
+			"examenMental",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"NroDocumento",
+			"nroDocumento",
+			"16",
+			"widget",
+			"=\"\"></",
+			"attr",
+			"mail",
+			"ocupacion",
+			"estadoCivil",
+			"sexo",
+			"nroDocumento",
+			"required"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.78656090709,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.xdebug_inspect":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true
+}
